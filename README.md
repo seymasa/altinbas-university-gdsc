@@ -7,8 +7,7 @@
 As an example for LLMs, search for a user on a web developed by Altınbaş University, and with the help of agents, gather insights from sources like LinkedIn and Instagram, and then summarize based on these insights.
 
 ### Architecture
-![app architech](https://github.com/Teknofest-Nane-Limon/automate-backend/assets/8446004/03b6adaa-9d64-47e2-a3a8-aed88f1b0055)
-
+<img width="756" alt="Screenshot 2023-12-26 at 08 34 31" src="https://github.com/seymasa/altinbas-university-gdsc/assets/8446004/b4209d00-d816-48ea-a5cd-bd04a913983d">
 
 ### Environment Setup
 
